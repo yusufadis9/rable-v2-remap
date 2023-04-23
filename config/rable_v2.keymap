@@ -29,7 +29,7 @@
 
         mod_layer {
             bindings = <
- &trans  &reset  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &trans  &trans  &trans  &trans  &trans  &trans  &ext_power EP_OFF  &ext_power EP_ON  &bt BT_CLR  &bt BT_CLR  &trans  &bt BT_SEL 0  &bootloader  &trans  &trans  &trans  &trans  &out OUT_TOG  &trans  &out OUT_USB  &trans  &trans  &trans  &trans  &trans  &tog 3  &trans  &bt BT_SEL 1  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &rgb_ug RGB_TOG  &trans  &bt BT_SEL 2  &trans  &trans  &trans  &trans  &bt BT_CLR  &trans  &out OUT_BLE  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &bt BT_SEL 3  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &trans  &sys_reset  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &trans  &trans  &trans  &trans  &trans  &trans  &ext_power EP_OFF  &ext_power EP_ON  &bt BT_CLR  &bt BT_CLR  &trans  &bt BT_SEL 0  &bootloader  &trans  &trans  &trans  &trans  &out OUT_TOG  &trans  &out OUT_USB  &trans  &trans  &trans  &trans  &trans  &tog 3  &trans  &bt BT_SEL 1  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &rgb_ug RGB_TOG  &trans  &bt BT_SEL 2  &trans  &trans  &trans  &trans  &bt BT_CLR  &trans  &out OUT_BLE  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &bt BT_SEL 3  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             >;
         };
 

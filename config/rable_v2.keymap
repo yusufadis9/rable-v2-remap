@@ -17,7 +17,7 @@
 
         default_layer {
             bindings = <
-&rgb_ug RGB_TOG  &gresc  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp MINUS  &kp EQUAL  &kp PIPE  &kp GRAVE  &kp HOME  &ext_power EP_TOG  &kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp LBKT  &kp RBKT  &kp BACKSPACE  &kp PG_UP  &kp F3  &kp CLCK  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SEMI  &kp SQT  &kp RET  &kp PG_DN  &kp F4  &kp LSHFT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT  &mo 2  &kp END  &kp F5  &kp LCTRL  &kp LALT  &kp LGUI  &kp SPACE  &kp LGUI  &kp RWIN  &kp RIGHT_ALT  &kp RIGHT_CONTROL  &kp RIGHT
+&rgb_ug RGB_TOG  &gresc  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp MINUS  &kp EQUAL  &kp BACKSLASH  &kp GRAVE  &kp HOME  &ext_power EP_TOG  &kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U  &kp I  &kp O  &kp P  &kp LBKT  &kp RBKT  &kp BACKSPACE  &kp PG_UP  &kp F3  &kp CLCK  &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J  &kp K  &kp L  &kp SEMI  &kp SQT  &kp RET  &kp PG_DN  &kp F4  &kp LSHFT  &kp LSHFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp RSHFT  &mo 2  &kp END  &kp F5  &kp LCTRL  &kp LALT  &kp LGUI  &kp SPACE  &kp LGUI  &kp RWIN  &kp RIGHT_ALT  &kp RIGHT_CONTROL  &kp RIGHT
             >;
         };
 

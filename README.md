@@ -1,7 +1,8 @@
 1. fork this repository to your github account
 2. after that, go to actions tab, and click enable/allow
 
-****![Untitled](https://github.com/rizalfr/rable-v2-remap/assets/4716813/49d70303-0262-4d44-8697-5d2b678ace12)
+![Untitled](https://github.com/rizalfr/rable-v2-remap/assets/4716813/f5077b7d-a850-413e-808a-93d433eaabe9)
+
 
 3. to change your keymaps, go to https://nickcoutsos.github.io/keymap-editor/ and click commit changes after that
 4. wait 2-5 minutes, and click the icon below, extract it to get `rable-zmk.uf2`
